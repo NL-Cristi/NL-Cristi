@@ -1,4 +1,5 @@
 ### Hi there 👋
+Balancing "mada mada dane" and "ichigo ichie" 😄
 
 <!--
 **NL-Cristi/NL-Cristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
