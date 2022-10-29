@@ -5,7 +5,7 @@ In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 
 
 👨🏼‍💻 building [SoftwareMechanic][website] for my ideas
 
-🌱 playing with [cooking][cooking]  for my wife 
+🌱 [cooking][cooking] with my wife 
 
 🧠 learning [golang][golang], [rust][rust]  
 
