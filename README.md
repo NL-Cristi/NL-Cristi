@@ -1,5 +1,39 @@
-### Hi there 👋
-Balancing "mada mada dane" and "ichigo ichie" 😄
+[![bg][banner1]][website]
+
+### Escalation Engineer at [ControlUp][controlup] who likes learning tech.
+In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 😄
+
+👨🏼‍💻 building [SoftwareMechanic][website] for my ideas
+
+🌱 playing with [https://clamsen.github.io/cooking/][cooking]  for my wife 
+
+🧠 learning [golang][golang], [rust][rust]  
+
+💜 loving [Blazor][blazor], [AspNet][AspNet], [csharp][csharp], [WinDbg][WinDbg], [PerfView][perfview], [SysInternals][sysinternals]  
+
+🏡 [website][website] **|** 
+📺 [cooking][cooking] **|** 
+🐦 [twitter][twitter] **|** 
+📰 [newsletter][newsletter] **|** 
+👔 [linkedin][linkedin]
+
+[banner1]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/master/banner1.png
+[banner2]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/master/banner2.png
+[controlup]: https://www.controlup.com/
+[blazor]: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+[AspNet]: https://learn.microsoft.com/en-us/aspnet/core
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[WinDbg ]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg
+[rust]: https://www.rust-lang.org/
+[golang]: https://go.dev/
+[website]: https://softwaremechanic.me/
+[cooking]: https://clamsen.github.io/cooking/
+[twitter]: https://twitter.com/NL-Cristi
+[newsletter]: https://softwaremechanic.me/
+[linkedin]: https://www.linkedin.com/in/cristian-laurentiu-negulescu/
+[perfview]: https://github.com/microsoft/perfview
+[sysinternals]: https://learn.microsoft.com/en-us/sysinternals/
+
 
 <!--
 **NL-Cristi/NL-Cristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +48,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[instagram]: https://instagram.com/youraccount
+
+📷 [instagram][instagram] **|** 
+
 -->
