@@ -17,8 +17,8 @@ In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 
 📰 [newsletter][newsletter] **|** 
 👔 [linkedin][linkedin]
 
-[banner1]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/main/banner1.png
-[banner2]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/main/banner2.png
+[banner1]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/main/banner1.jpg
+[banner2]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/main/banner2.jpg
 [controlup]: https://www.controlup.com/
 [blazor]: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
 [AspNet]: https://learn.microsoft.com/en-us/aspnet/core
