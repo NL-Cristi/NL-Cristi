@@ -1,12 +1,55 @@
-# powershell-profile
-Pretty PowerShell that looks good and functions almost as good as Linux terminal 
+[![bg][banner1]][website]
 
-## One Line Install (Elevated PowerShell Recommended)
+### Escalation Engineer at [ControlUp][controlup] who likes learning tech.
+In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 😄
 
-```
-irm "https://github.com/NL-Cristi/PsProfile/raw/main/setup.ps1" | iex
-```
+👨🏼‍💻 building [SoftwareMechanic][website] for my ideas
 
-## Fix the Missing Font
+🌱 [cooking][cooking] with my wife 
 
-extract the downloaded `cove.zip` that is in the folder you ran the script from and install the nerd fonts. 
+🧠 learning [golang][golang], [rust][rust]  
+
+💜 loving [Blazor][blazor], [AspNet][AspNet], [csharp][csharp], [WinDbg][WinDbg], [PerfView][perfview], [SysInternals][sysinternals]  
+
+🏡 [website][website] **|** 
+📺 [cooking][cooking] **|** 
+🐦 [twitter][twitter] **|** 
+📰 [newsletter][newsletter] **|** 
+👔 [linkedin][linkedin]
+
+[banner1]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/main/banner1.jpg
+[banner2]: https://raw.githubusercontent.com/NL-Cristi/NL-Cristi/main/banner2.jpg
+[controlup]: https://www.controlup.com/
+[blazor]: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+[AspNet]: https://learn.microsoft.com/en-us/aspnet/core
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[WinDbg ]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg
+[rust]: https://www.rust-lang.org/
+[golang]: https://go.dev/
+[website]: https://softwaremechanic.me/
+[cooking]: https://clamsen.github.io/cooking/
+[twitter]: https://twitter.com/NL-Cristi
+[newsletter]: https://softwaremechanic.me/
+[linkedin]: https://www.linkedin.com/in/cristian-laurentiu-negulescu/
+[perfview]: https://github.com/microsoft/perfview
+[sysinternals]: https://learn.microsoft.com/en-us/sysinternals/
+
+
+<!--
+**NL-Cristi/NL-Cristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+[instagram]: https://instagram.com/youraccount
+
+📷 [instagram][instagram] **|** 
+
+-->
