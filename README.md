@@ -1,6 +1,6 @@
 [![bg][banner1]][website]
 
-### Escalation Engineer at [ControlUp][controlup] who likes learning tech.
+### Engineer Escalation  at [ControlUp][controlup] who likes learning tech.
 In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 😄
 
 👨🏼‍💻 building [SoftwareMechanic][website] for my ideas
