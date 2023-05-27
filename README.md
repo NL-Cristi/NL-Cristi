@@ -1,5 +1,3 @@
-[![bg][banner1]][website]
-
 ### Escalation Engineer at [ControlUp][controlup] who likes learning tech.
 In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 😄
 
@@ -53,3 +51,4 @@ Here are some ideas to get you started:
 📷 [instagram][instagram] **|** 
 
 -->
+[![bg][banner1]][website]
