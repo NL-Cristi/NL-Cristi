@@ -5,8 +5,9 @@ In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 
 
 🌱 [cooking][cooking] with my wife 
 
-🧠  learning [golang][golang], [rust][rust], [python][python]
-🧠  learning how to [PDE][https://neovim.io/] using [kickstart][https://github.com/nvim-lua/kickstart.nvim] with [TJ DeVries] [https://youtu.be/stqUbv-5u2s]
+🧠  learning [golang][golang], [rust][rust], [python](https://www.python.org/)
+
+🧠  learning how to [neovim -> PDE](https://neovim.io/) using [kickstart](https://github.com/nvim-lua/kickstart.nvim) from [TJ DeVries](https://youtu.be/stqUbv-5u2s)
 
 💜 loving [Blazor][blazor], [AspNet][AspNet], [csharp][csharp], [WinDbg][WinDbg], [PerfView][perfview], [SysInternals][sysinternals]  
 
