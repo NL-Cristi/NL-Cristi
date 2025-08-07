@@ -5,7 +5,7 @@ In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 
 
 🌱 [cooking][cooking] with my wife 
 
-🧠  learning [golang][golang], [rust][rust], [python][python]
+🧠  learning [golang][golang], [rust][rust], [python][python], [odin][odin]
 
 🧠  learning how to [neovim][neovim] --> [PDE][PDE] using [kickstart][kickstart] from [TJ DeVries][TJ DeVries]
 
@@ -26,6 +26,7 @@ In my spare time i am balancing ***"mada mada dane"*** and ***"ichigo ichie"*** 
 [WinDbg ]: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg
 [rust]: https://www.rust-lang.org/
 [golang]: https://go.dev/
+[odin]: https://odin-lang.org/
 [website]: https://softwaremechanic.me/
 [cooking]: https://clamsen.github.io/cooking/
 [twitter]: https://twitter.com/NL-Cristi
